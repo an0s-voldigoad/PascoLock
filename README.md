@@ -70,7 +70,7 @@ chmod +x pascolock.py
 ```
 
 ```
-./chromalock.py
+./pascolock.py
 ```
 OR YOU CAN PASTE THIS ONE LINE SCRIPT AS WELL 
 
@@ -80,5 +80,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install python3 git python3-p
 
 ## 🗣️ NOTE
 This tool is made for beginner friendly and its in it testing/beta stage. Some of its root files may or maynot work such as <code>gui.py</code> which runs a GUI which runs a gui using tkinter may have issue in running. 
+- HIBP which checks breaches of your password needs an internet connection to run properly
+
 
 ## 🔖 THANKS FOR USING THIS TOOL, MAKE SURE TO GIVE A STAR AND A FOLLOW IF YOU LIKE THIS PROJECT🔥 
