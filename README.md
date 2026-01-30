@@ -20,3 +20,12 @@
 - Offline functionality: Core features work completely offline, making it fast and privacy-friendly.
 
 <img align = "right" alt="Anime Hacks" width="200" src="https://gifdb.com/images/high/anime-hackerman-do-the-hacking-screen-zhr4q4c0t2oygjzv.webp">
+
+## 🛠️ Tech Stacks
+- Package: pascolock
+- Version: 1.0
+- Section: security
+- Priority: optional
+- Architecture: amd64
+- Maintainer: Rudra <rudra@example.com>
+- Description: PascoLock advanced password security auditing tool for Kali Linux
