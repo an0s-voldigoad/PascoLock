@@ -1,0 +1,8 @@
+{
+    "min_length": 12,
+    "uppercase": true,
+    "lowercase": true,
+    "numbers": true,
+    "symbols": true,
+    "no_reuse": true
+}
