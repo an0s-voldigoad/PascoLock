@@ -1,2 +1,4 @@
+![logo](https://i.postimg.cc/Z5ZbLd16/IMG-20260130-155031.jpg)
+
 # PascoLock
 The Password Security Toolkit is a lightweight yet powerful cybersecurity utility designed to analyze, evaluate, and improve password strength. This project is built with a security-first mindset and focuses on helping users understand how strong their passwords really are and how they can be made more secure against modern attack techniques.
