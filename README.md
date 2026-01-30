@@ -27,5 +27,12 @@
 - Section: security
 - Priority: optional
 - Architecture: amd64
-- Maintainer: Rudra <rudra@example.com>
+- Maintainer: MisFiT KiNG a.k.a Rudra
 - Description: PascoLock advanced password security auditing tool for Kali Linux
+
+## 🎯 Purpose of This Project
+The main goal of this project is learning by building. Instead of just reading about password security, this toolkit allows users to experiment, test, and understand real-world security practices. It also serves as a solid portfolio project for showcasing Python and cybersecurity fundamentals.
+
+
+## 📌 Disclaimer
+This project is intended for educational and ethical purposes only. Do not use it for unauthorized access or malicious activities.
