@@ -19,7 +19,7 @@
 - Colorful CLI interface: Clean and colorful command-line interface designed for Linux environments like Kali Linux.
 - Offline functionality: Core features work completely offline, making it fast and privacy-friendly.
 
-<img align = "right" alt="Anime Hacks" width="400" src="https://gifdb.com/images/high/anime-hackerman-do-the-hacking-screen-zhr4q4c0t2oygjzv.webp">
+<img align = "right" alt="Anime Hacks" width="300" src="https://gifdb.com/images/high/anime-hackerman-do-the-hacking-screen-zhr4q4c0t2oygjzv.webp">
 
 ## 🛠️ Tech Stacks
 - Package: pascolock
@@ -67,8 +67,13 @@ chmod +x pascolock.py
 ```
 ./chromalock.py
 ```
-OR
+OR YOU CAN PASTE THIS ONE LINE SCRIPT AS WELL 
 
 ```
-python3 pascolock.py
+sudo apt update && sudo apt upgrade -y && sudo apt install python3 git python3-pip python3-colorama -y && git clone https://github.com/an0s-voldigoad/PascoLock.git && cd PascoLock && chmod +x pascolock.py && ./pascolock.py
 ```
+
+## 🗣️ NOTE
+This tool is made for beginner friendly and its in it testing/beta stage. Some of its root files may or maynot work such as <code>gui.py</code> which runs a GUI which runs a gui using tkinter may have issue in running. 
+
+## 🔖 THANKS FOR USING THIS TOOL, MAKE SURE TO GIVE A STAR AND A FOLLOW IF YOU LIKE THIS PROJECT🔥 
