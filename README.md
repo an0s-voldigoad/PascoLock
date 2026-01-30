@@ -36,3 +36,39 @@ The main goal of this project is learning by building. Instead of just reading a
 
 ## 📌 Disclaimer
 This project is intended for educational and ethical purposes only. Do not use it for unauthorized access or malicious activities.
+
+## 📦 Installation & Usage
+Clone the repository, give execute permission to the main script, and run it directly from the terminal. The toolkit is designed to be simple to deploy and easy to extend with new features.
+You can Copy & Paste the commands written below in Kali Linux Terminal 👇
+```
+sudo apt update && upgrade
+```
+
+```
+sudo pkg -i python3
+```
+
+```
+git clone https://github.com/an0s-voldigoad/PascoLock.git
+```
+
+```
+cd PascoLock
+```
+
+```
+pip3 install colorama
+```
+
+```
+chmod +x pascolock.py
+```
+
+```
+./chromalock.py
+```
+OR
+
+```
+python3 pascolock.py
+```
